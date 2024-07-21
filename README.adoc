@@ -1,0 +1,13 @@
+= TinyRockOS - Docs Site
+
+Welcome to the TinyRockOS project! This project is a minimalistic general pourpouse operating system focus on lightweight, security and high performance good to work on servers, embebed systems and high performance applications.
+
+In this repository you can find the product documentation site generation scripts of the project.
+
+== License
+
+This project is under https://github.com/freehomerp/docs-site/tree/main/LICENSE[MIT License].
+
+== Authors
+
+- Alejandro Alonso Mayo - https://github.com/AlejandroAM91[github] - mailto:alejandroalonsomayo@gmail.com[mail]
