@@ -1,0 +1,16 @@
+{
+  "name": "docs-site",
+  "description": "TinyRockOS Documents Site",
+  "scripts": {},
+  "keywords": [
+    "OS",
+    "docs"
+  ],
+  "author": "Alejandro Alonso Mayo <alejandroalonsomayo@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@9.5.0",
+  "devDependencies": {
+    "@antora/cli": "~3.1.7",
+    "@antora/site-generator": "3.1"
+  }
+}

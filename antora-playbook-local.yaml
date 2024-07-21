@@ -1,0 +1,9 @@
+site:
+  title: TinyRockOS Product Documentation
+content:
+  sources: []
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./src/ui
